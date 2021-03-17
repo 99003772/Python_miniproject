@@ -30,11 +30,13 @@
 
 # Detail requirements
 ## High Level Requirements:
- | Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |  
+| Id           | Requirements   | Description   |       Status     |
+| :---         |     :---:      |          ---: |            ---:  |
+| git status   | git status     | git status    |                  |
+| git diff     | git diff       | git diff      |                  |  
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
