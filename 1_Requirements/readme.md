@@ -28,15 +28,17 @@
 
 **TBD**
 
-# Detail requirements
+# Detail requirements:
+
 ## High Level Requirements:
 | Id           | Requirements   | Description   |       Status     |
 | :---         |     :---:      |          ---: |            ---:  |
 | git status   | git status     | git status    |                  |
 | git diff     | git diff       | git diff      |                  |  
 
+
 ##  Low level Requirements:
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Id           | Requirements   | Description   |       Status     |
+| :---         |     :---:      |          ---: |            ---:  |
+| git status   | git status     | git status    |                  |
+| git diff     | git diff       | git diff      |                  |  
