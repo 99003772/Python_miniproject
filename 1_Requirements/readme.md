@@ -30,9 +30,7 @@
 
 # Detail requirements
 ## High Level Requirements:
-|---id----|----requirement------|-----description----|------status----|
-|---------|---------------------|--------------------|----------------|
-
+  Id      |    Requirements    |      Description      |       status       |    
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
