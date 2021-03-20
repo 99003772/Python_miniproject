@@ -1,3 +1,3 @@
-## HIGH LEVEL UML DIAGRAM
+# HIGH LEVEL UML DIAGRAM
 
-# Object Diagram
+## Object Diagram
