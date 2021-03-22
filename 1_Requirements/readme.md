@@ -27,8 +27,8 @@ It is a Data Set problem that will allow to retrive data from data set. However,
   
 ## SWOT ANALYSIS
 
-![Capture1](https://user-images.githubusercontent.com/78864900/111418016-e833d380-870c-11eb-81e2-626dd342fa8f.PNG)
-
+![SWOT Analysis](https://user-images.githubusercontent.com/78858575/111780469-78287780-88dd-11eb-8438-2637230c6579.png)
+ 
 # 4W1H
 
 ## Who:
