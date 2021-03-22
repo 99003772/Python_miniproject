@@ -36,3 +36,16 @@ The aim of the project is to extract the data present in different spreadsheets 
 32. End Date
 
 The user defines the data that needs to be searched on the basis of Name, PS Number and Email ID. The python program then reads the data corresponding to the particular data from different spreadsheets of excel. It then creates a mastersheet and adds the data from all the sheets to it. In the end, it will create a summary sheet which will count the individual number of date and the total number of data.
+
+
+# Procedure For File Run
+
+To Run the code Run NewClass.py file
+
+Enter -1 If you want to search detail by PS Number"
+
+Enter -2 If you want to search detail by Name"
+
+Enter -3 If you want to search detail by Email"
+
+At the end all data will be printed in Data1.xlsx file, all data store in mastersheet present in Data1.xlsx file and the total number of data will also be shown in the summary sheet(data of individual and also the total no. of data present in the master sheet.
