@@ -1,6 +1,36 @@
-#  Imports
+# Author: Sayani Basak(99003772)
+# Contact: sayani.basak@ltts.com /basaksayani1997@gmail.com
+# Date of creation: 22/3/2021
+
+# -------------------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------------------#
+
+"""
+This program performs the task of putting all the data of a particular candidate or more than one candidate from 5 
+sheets to a master sheet provided the user gives the input of name , ps no and email id of that particular candidate.
+Finally in the second master sheet it will print the summary of the first master sheet i.e. it will print the number
+of data of the individual person and the total number of data in the master sheet.
+This programs uses both pandas and openpyxl library and it has object oriented programming concepts such as class,
+object and function.
+"""
+
+# -------------------------------------------------------------------------------------------------------------#
+# -------------------------------------------------------------------------------------------------------------#
+
+"""
+This program uses pandas and openpyxl library and import pandas as pd  
+imports the library and rather than using the name pandas , it's instructed to use the name pd instead.
+Similarly import openpyxl as op imports the library and instead of using the name openpyxl everytime it 
+uses the name op. From Pandas ExcelWriter is imported in order to write the header in the first master sheet.
+"""
+
 import pandas as pd
 from openpyxl import load_workbook
+
+"""
+This program uses a class named Read where the workbook function is defined and has three 
+arguments such as name, ps no and email id. which has been validated. 
+"""
 
 #  Global variable
 gcount = 1
