@@ -11,6 +11,6 @@
 
 ## Object Diagram :
 
-https://user-images.githubusercontent.com/78857077/111766425-8a011f00-88cb-11eb-91a8-360d861e77aa.jpg
+![python](https://user-images.githubusercontent.com/78857077/111766425-8a011f00-88cb-11eb-91a8-360d861e77aa.jpg)
 
 
