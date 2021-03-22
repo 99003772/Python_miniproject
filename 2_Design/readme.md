@@ -11,6 +11,6 @@
 
 ## Object Diagram :
 
-![LLR](https://user-images.githubusercontent.com/78854464/111954371-fff4c880-8b0d-11eb-95b9-133c35164e08.png)
+https://user-images.githubusercontent.com/78857077/111766425-8a011f00-88cb-11eb-91a8-360d861e77aa.jpg
 
 
