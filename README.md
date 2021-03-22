@@ -48,4 +48,4 @@ Enter -2 If you want to search detail by Name"
 
 Enter -3 If you want to search detail by Email"
 
-At the end all data will be printed in Data1.xlsx file, all data store in mastersheet present in Data1.xlsx file and the total number of data will also be shown in the summary sheet(data of individual and also the total no. of data present in the master sheet.)
+At the end all data will be printed in Data1.xlsx file, all data store in mastersheet present in Data1.xlsx file and the total number of data will also be shown in the summary sheet(data of individual and also the total no. of data present in the master sheet).
