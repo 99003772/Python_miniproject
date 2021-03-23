@@ -84,7 +84,7 @@ class Read:
 
         df1 = pd.DataFrame()
         for t in range(0, 5):
-            up_d = df[t].loc[(df[i]['Ps No'] == ps)]
+            up_d = df[t].loc[(df[t]['Ps No'] == ps)]
             df1 = df1.append(up_d)
 
         # Merging all data  from sheets into a single row
