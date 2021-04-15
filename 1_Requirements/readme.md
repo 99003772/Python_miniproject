@@ -31,10 +31,10 @@ It is a Data Set problem that will allow to retrive data from data set. However,
  
 # 4W1H
 
-## Who:
-*	People in the organisation ,managers ,colleagues.
-*	Mentors and GEA academy can use the data for evaluation.
-*	For checking the information of people in nalanda and takshasila.
+## Why:
+* We are using to retrieve the data of an individual candidate from the excel workbook of 5 sheets where all the relevant data of 40 candidates is present.
+* We can easily access the details of that individual by giving some input such as name, Ps no and email id.
+
 
 
 ## What:
